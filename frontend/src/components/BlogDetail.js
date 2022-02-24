@@ -44,7 +44,3 @@ const BlogDetail = (props) => {
 };
 
 export default BlogDetail;
-
-
-
-// something

@@ -115,6 +115,3 @@ const Blog = () => {
 };
 
 export default Blog;
-
-
-// something
