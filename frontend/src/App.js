@@ -10,10 +10,10 @@ const App = () => (
     <Router>
         <Layout>
             <Routes>
-                <Route exact path='/' component={Home} />
-                <Route exact path='/blog' component={Blog} />
-                <Route exact path='/category/:id' component={Category} />
-                <Route exact path='/blog/:id' component={BlogDetail} />
+                <Route path='/' element={<Home />}/>
+                <Route path='/blog' element={<Blog />}/>
+                <Route path='/category/:id' element={<Category />}/>
+                <Route path='/blog/:id' element={<BlogDetail />}/>
             </Routes>
         </Layout>
     </Router>
