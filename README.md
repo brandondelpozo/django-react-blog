@@ -10,3 +10,4 @@ In order to test out this project, follow these steps:
 - in the backend folder, run: pip install -r requirements.txt
 - in backend/blog_lyfe/settings.py, under DATABASES, set the PASSWORD field to your database password
 
+![image](https://user-images.githubusercontent.com/3943324/156097792-31acdec6-16cd-41aa-aef9-d430dd4e2945.png)
